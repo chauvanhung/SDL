@@ -1,6 +1,7 @@
 ﻿#include<stdio.h>
-#include<D:\SDL4\SDL4\SDL2\include\SDL.h>
+#include<D:\SDL\SDL4\SDL2\include\SDL.h>
 
+//lap 3 bai 1
 #ifdef  _MSC_VER                            //tham số liên kết với visual C++
 #pragma comment (lib, "sdl2main.lib")
 #pragma comment (lib, "sdl2.lib")

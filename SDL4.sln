@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDL4", "SDL4\SDL4.vcxproj", "{232B1AF5-1939-4B9E-959B-02B71ECE59A7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ran San Moi SDL", "Ran San Moi SDL\Ran San Moi SDL.vcxproj", "{496C478F-6A8E-4582-A322-48EA726A65B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{232B1AF5-1939-4B9E-959B-02B71ECE59A7}.Release|x64.Build.0 = Release|x64
 		{232B1AF5-1939-4B9E-959B-02B71ECE59A7}.Release|x86.ActiveCfg = Release|Win32
 		{232B1AF5-1939-4B9E-959B-02B71ECE59A7}.Release|x86.Build.0 = Release|Win32
+		{496C478F-6A8E-4582-A322-48EA726A65B0}.Debug|x64.ActiveCfg = Debug|x64
+		{496C478F-6A8E-4582-A322-48EA726A65B0}.Debug|x64.Build.0 = Debug|x64
+		{496C478F-6A8E-4582-A322-48EA726A65B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{496C478F-6A8E-4582-A322-48EA726A65B0}.Debug|x86.Build.0 = Debug|Win32
+		{496C478F-6A8E-4582-A322-48EA726A65B0}.Release|x64.ActiveCfg = Release|x64
+		{496C478F-6A8E-4582-A322-48EA726A65B0}.Release|x64.Build.0 = Release|x64
+		{496C478F-6A8E-4582-A322-48EA726A65B0}.Release|x86.ActiveCfg = Release|Win32
+		{496C478F-6A8E-4582-A322-48EA726A65B0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
